@@ -160,9 +160,13 @@ cython_debug/
 #.idea/
 
 .DS_Store
-.jpg
-.png
-.xml
-.zip
-.tar
-.7z
+*.jpg
+*.png
+*.xml
+*.zip
+*.tar
+*.7z
+*.txt
+*.pdf
+*.xls
+*.yaml
