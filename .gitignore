@@ -163,11 +163,10 @@ cython_debug/
 *.jpg
 *.png
 *.xml
-*.zip
 *.tar
 *.7z
-*.txt
 *.pdf
 *.xls
 *.yaml
 *.csv
+*.zip
