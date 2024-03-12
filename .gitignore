@@ -170,3 +170,4 @@ cython_debug/
 *.pdf
 *.xls
 *.yaml
+*.csv
