@@ -170,3 +170,7 @@ cython_debug/
 *.yaml
 *.csv
 *.zip
+*.pptx
+*.ppt
+*.pkl
+*.json
